@@ -1,8 +1,8 @@
 # Conflict CTF
 
-## Introduction
+## Ref: https://github.com/ntut-xuan/ConflictCTF
 
-https://github.com/ntut-xuan/ConflictCTF
+## Introduction
 
 歡迎來到 Conflict CTF，這個專案將讓你可以理解如何合理解決衝突。
 
