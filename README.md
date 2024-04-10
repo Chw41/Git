@@ -9,6 +9,6 @@
 │
 └── Conflict 
     ├── README.md
-    ├── script.py
+    ├── ConflictCTF.7z
     └── Conflict CTF writeup
 ```
