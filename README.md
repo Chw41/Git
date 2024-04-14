@@ -7,7 +7,7 @@
 ├── Introduction
 │   └── Git Introduction & Common Operations
 │
-└── Conflict CTF
+└── Conflict CT
     ├── README.md
     ├── ConflictCTF.7z
     └── Conflict CTF writeup
