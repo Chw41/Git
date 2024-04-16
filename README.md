@@ -9,6 +9,6 @@
 │
 └── Conflict CTF
     ├── README.md
-    ├── ConflictCTF.7z
+    ├── ConflictCTF
     └── Conflict CTF writeup
 ```
